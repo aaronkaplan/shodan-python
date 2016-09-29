@@ -1,0 +1,9 @@
+build/*
+*.tar.gz
+*.json.gz
+*.kml
+*.egg
+*.pyc
+shodan.egg-info/*
+tmp/*
+MANIFEST
